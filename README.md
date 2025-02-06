@@ -16,7 +16,7 @@
 ## 활동 내용
 | 주차  | 날짜  | 주제 1          | 발표자 1  | 주제 2        | 발표자 2  |
 |------|------|--------------|--------|------------|--------|
-| 2주차 | 3/28 | [basic pytorch](./basic_ptroch) | 이지민 |            |        |
+| 2주차 | 3/28 | [basic pytorch](./basic_pytroch) | 이지민 |            |        |
 | 3주차 | 4/4  | [CNN](./CNN.pdf)          | 이지민  | [RNN](https://github.com/chanyoung-shin/deeplearning-at-pytorch/wiki/RNN,LSTM)        | 신찬영  |
 | 4주차 | 4/11 | [토큰화, 임베딩](./tokenizer.pdf) | 이아현  | [LSTM](https://github.com/chanyoung-shin/deeplearning-at-pytorch/wiki/RNN,LSTM) | 신찬영 |
 | 5주차 | 5/2  |  [AlexNet](./AlexNet) | 정해림  | [ResNet](./ResNet)    | 이가은  |
